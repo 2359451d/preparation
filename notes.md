@@ -1,4 +1,22 @@
-理一些非八股核心，BQ概念可以/要扯的点，基本全忘了
+理一些非八股核心（generalised方向），BQ概念可以/要扯的点，基本全忘了
+
+* [web server protocol/standard](#web-server-protocolstandard)
+* [Java开发三层架构 – 业务分层](#java开发三层架构--业务分层)
+* [DAO，DTO，DO等](#daodtodo等)
+* [中间件](#中间件)
+* [nginx](#nginx)
+* [Cookie, session, token, redis](#cookie-session-token-redis)
+* [JWT](#jwt)
+* [Token存储](#token存储)
+* [针对用户信息+缓存](#针对用户信息缓存)
+* [redis+ThreadLocal用户信息+SSO](#redisthreadlocal用户信息sso)
+* [分布式锁](#分布式锁)
+  * [Redis实现](#redis实现)
+    * [部署方式](#部署方式)
+  * [Redisson](#redisson)
+  * [zookeeper实现](#zookeeper实现)
+* [java future](#java-future)
+* [py协程](#py协程)
 
 # web server protocol/standard
 
@@ -195,3 +213,17 @@ nosql
 
 ![](/static/2022-05-23-19-14-17.png)
 ![](/static/2022-05-23-19-15-09.png)
+
+# java future
+
+https://segmentfault.com/a/1190000019558579
+
+# py协程
+
+协程是同步和异步调用的混合体
+
+https://www.jianshu.com/p/db2e5d222bb9
+
+![](/static/2022-05-24-23-14-51.png)
+![](/static/2022-05-24-23-16-13.png)
+![](/static/2022-05-24-23-17-25.png)
