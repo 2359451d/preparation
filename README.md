@@ -8,8 +8,8 @@
 按顺序, 到时候再看2,3轮刷哪个。。。
 
 * 重新第一轮随便刷刷收藏夹里高频tag知识点, 我全忘了
+  * freq
   * https://leetcode-cn.com/circle/article/48kq9d/
-  * 剑指
 * h
   * B75，G75
   * https://seanprashad.com/leetcode-patterns/
