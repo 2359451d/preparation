@@ -16,7 +16,7 @@
   * https://aaronice.gitbook.io/lintcode
     * 这个选高频tag
   * https://leetcode.com/explore/interview/card/top-interview-questions-medium/
-    * 重开个会员
+    * [白嫖通道](https://github.com/hxu296/leetcode-company-wise-problems-2022)
   * 公司tag
   * OA
 
@@ -28,8 +28,8 @@ STAR
 
 # Design
 
-经典题
-
-https://github.com/Jeevan-kumar-Raj/Grokking-System-Design
+OOD经典题
 
 设计题可以往后拖点准备，ng感觉看运气
+
+4vo没，3vo可能有
