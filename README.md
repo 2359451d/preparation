@@ -26,6 +26,10 @@
 
 STAR
 
+整合例子
+
+* https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/content/bqbu-cuo-de-zong-jie.html
+
 # Design
 
 OOD经典题
@@ -33,3 +37,7 @@ OOD经典题
 设计题可以往后拖点准备，ng感觉看运气
 
 4vo没，3vo可能有
+
+# interview - howto
+
+- 6 steps
