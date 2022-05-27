@@ -1,7 +1,8 @@
 随便放放面试要用的，放假重新关注下rolling deadline
 
 * [矿列表](https://github.com/quantprep/quantnewgrad2022)
-* 地里，glassdoor，blind上没什么高参考的后端,web面经= =重新按java八股盲准备估计时间不够，这边面的难度没国内高基本不深入中间件,优化八股，。tech全挂了再考虑开发方向了（时间不够，优先非tech的java开发
+* 地里，glassdoor，blind上没什么高参考的后端,web面经= =重新按java八股盲准备估计时间不够，这边面的难度没国内高基本不深入中间件,优化八股，。~~tech全挂了再考虑开发方向了（时间不够，优先非tech的java开发~~
+  * 反着来，随便了，反正问的不深
 
 # 题
 
@@ -29,6 +30,8 @@ STAR
 整合例子
 
 * https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/content/bqbu-cuo-de-zong-jie.html
+* 2022LP
+  * https://www.1point3acres.com/bbs/thread-839216-1-1.html
 
 # Design
 
