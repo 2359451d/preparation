@@ -22,6 +22,7 @@
   * [future](#future)
   * [线程相关](#线程相关)
   * [普通函数->协程函数run_in_executor()](#普通函数-协程函数run_in_executor)
+* [mysql分库分表](#mysql分库分表)
 
 # web server protocol/standard
 
@@ -483,3 +484,7 @@ async def main():
 
 asyncio.run(main())
 ```
+
+# mysql分库分表
+
+https://juejin.cn/post/6844903648670007310
