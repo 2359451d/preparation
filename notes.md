@@ -23,6 +23,9 @@
   * [线程相关](#线程相关)
   * [普通函数->协程函数run_in_executor()](#普通函数-协程函数run_in_executor)
 * [mysql分库分表](#mysql分库分表)
+* [缓存设计&使用](#缓存设计使用)
+* [TDD](#tdd)
+* [MongoDB](#mongodb)
 
 # web server protocol/standard
 
@@ -488,3 +491,18 @@ asyncio.run(main())
 # mysql分库分表
 
 https://juejin.cn/post/6844903648670007310
+
+# 缓存设计&使用
+
+https://juejin.cn/post/6844903665845665805
+
+# TDD
+
+https://www.functionize.com/blog/testers-vs-tdd
+https://joshpeterson.github.io/you-are-probably-already-doing-tdd
+
+# MongoDB
+
+[电商应用场景1](https://mongoing.com/archives/3734)
+
+字段不规则时使用，其他优先rdb（多一个数据源多一个维护要求，文档不成熟，但是特定要求比如集成es有优点
