@@ -13,6 +13,7 @@ content
 * [Design](#design)
 * [interview - howto](#interview---howto)
 * [round](#round)
+* [referral](#referral)
 
 # 题
 
@@ -60,3 +61,14 @@ coding crack多看看别人的mock视频 + 总结
 # round
 
 ![](/static/2022-05-30-19-15-43.png)
+
+# referral
+
+收集中...
+
+1. Zendesk
+2. 亚麻
+3. MS
+4. yelp
+5. uber
+6. 
