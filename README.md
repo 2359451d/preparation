@@ -31,6 +31,7 @@ content
     * [白嫖通道](https://github.com/hxu296/leetcode-company-wise-problems-2022)
   * 公司tag
   * OA
+    * algo monster查最新OA汇总
 
 # LP,BQ相关之后再汇总一下
 
