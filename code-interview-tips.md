@@ -14,6 +14,8 @@
 
 intro - 1~2min
 
+Q&A - 3~5min
+
 ![](/static/2022-06-04-16-11-17.png)
 
 # basic steps
@@ -26,7 +28,8 @@ ask for the webcam to be turned off -> focus when coding (vi)
    1. input, type
    2. input range
    3. repeat
-   4. assumptions (raise some examples, ask whether output example is expected)
+   4. **assumptions (raise some examples, ask whether output example is expected**)
+      1. 多写一些test cases 这样在写每一个的时候 你的input and expected output可以跟面试官验证
    5. border cases
    6. 输入是否可以变更，覆盖
 2. clarify all possible solutions & complexity (5~10min)
@@ -44,7 +47,7 @@ ask for the webcam to be turned off -> focus when coding (vi)
    1. 脑子跑tests, 解释复杂性等，找可重构地方
    2. 提出更多测试用例，&跑tests。识别&自我纠正bug, 系统方式验证代码正确性，**逐步更新state**
    3. <font color="deeppink">解释，如果时间充足，如何改进</font>
-      1. 针对前面提出的所有可能solutions的follow-up
+      1. 针对前面提出的所有可能solutions的follow-up，或者针对一些constraints去掉后如何解决
 
 # 加test
 

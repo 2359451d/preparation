@@ -1,7 +1,7 @@
 随便放放面试要用的，放假重新关注下rolling deadline，
 
 <!-- * [矿列表](https://github.com/quantprep/quantnewgrad2022) -->
-* 地里，glassdoor，blind上没什么高参考的后端,web面经= =重新按java八股盲准备估计时间不够，这边面的难度没国内高基本不深入中间件,优化八股，。~~tech全挂了再考虑开发方向了（时间不够，优先非tech的java开发~~
+* 地里，glassdoor，blind上没什么高参考的后端,web面经= =重新按java八股盲准备估计时间不够，这边面的难度没国内高基本不深入中间件,优化八股，。~~tech全挂了再考虑开发方向了（时间不够，优先非tech的java开发， 找开发？找死！~~
   * 反着来，随便了，反正问的不深
 
 ---
@@ -17,13 +17,13 @@ content
 
 # 题
 
-按顺序, 到时候再看2,3轮刷哪个。。。
+~~按顺序, 到时候再看2,3轮刷哪个。。。~~ 新题+每日复习(1,2,4,7,15)跟上
 
-* 重新第一轮随便刷刷收藏夹里高频tag知识点, 我全忘了
+* 重新第一轮随便刷刷收藏夹里高频tag知识点(**pattern基于algo monster和别的几个题单，高频都差不多**), 我全忘了
   * freq
-  * https://leetcode-cn.com/circle/article/48kq9d/
+  * ~~B75，G75~~ **第一轮G75高频顺序**
+  * ~~https://leetcode-cn.com/circle/article/48kq9d/~~
 * h
-  * B75，G75
   * https://seanprashad.com/leetcode-patterns/
   * https://aaronice.gitbook.io/lintcode
     * 这个选高频tag
@@ -34,6 +34,8 @@ content
     * algo monster查最新OA汇总
 
 # LP,BQ相关之后再汇总一下
+
+准备15-20个，，每个能zoom in，别编重复故事
 
 收藏夹，地里tips看看
 
@@ -49,7 +51,7 @@ STAR
 
 OOD经典题
 
-设计题可以往后拖点准备，ng感觉看运气
+设计题可以往后拖点准备，ng感觉看运气←_←
 
 4vi没，3vi可能有
 
@@ -59,17 +61,12 @@ OOD经典题
 
 coding crack多看看别人的mock视频 + 总结
 
+docs whiteboard模拟，，顺便复习题
+
 # round
 
 ![](/static/2022-05-30-19-15-43.png)
 
 # referral
 
-收集中...
-
-1. Zendesk
-2. 亚麻
-3. MS
-4. yelp
-5. uber
-6. 
+内推大佬都加了备注
