@@ -1,7 +1,7 @@
 随便放放面试要用的，放假重新关注下rolling deadline，
 
 <!-- * [矿列表](https://github.com/quantprep/quantnewgrad2022) -->
-* 地里，glassdoor，blind上没什么高参考的后端,web面经= =重新按java八股盲准备估计时间不够，这边面的难度没国内高基本不深入中间件,优化八股，。~~tech全挂了再考虑开发方向了（时间不够，优先非tech的java开发， 找开发？找死！~~
+* 地里，glassdoor，blind上没什么高参考的后端,web面经= =重新按java八股盲准备估计时间不够，这边面的难度没国内高基本不深入中间件,优化八股，。~~tech全挂了再考虑开发方向了（时间不够，优先非tech的java开发，~~
   * 反着来，随便了，反正问的不深
 
 ---
@@ -17,11 +17,11 @@ content
 
 # 题
 
-~~按顺序, 到时候再看2,3轮刷哪个。。。~~ 新题+每日复习(1,2,4,7,15)跟上
+~~按顺序, 到时候再看2,3轮刷哪个。。。~~ 新题（太菜只能1~4区间）+每日复习跟上(间隔选个最合适的，桌面版卡片已set up, <font color="red">改标题标记间隔放长不能bug free写出的</font>，快速复习-think aloud思路
 
 * 重新第一轮随便刷刷收藏夹里高频tag知识点(**pattern基于algo monster和别的几个题单，高频都差不多**), 我全忘了
   * freq
-  * ~~B75，G75~~ **第一轮G75高频顺序**
+  * ~~B75，G75~~ **第一轮G75-DFS高频顺序**
   * ~~https://leetcode-cn.com/circle/article/48kq9d/~~
 * h
   * https://seanprashad.com/leetcode-patterns/
