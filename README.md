@@ -59,7 +59,7 @@ OOD经典题
 
 - 6 steps
 
-coding crack多看看别人的mock视频 + 总结
+coding crack多看看别人的mock视频 + 总结 【【注意下follow up部分
 
 docs whiteboard模拟，，顺便复习题
 
