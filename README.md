@@ -35,7 +35,7 @@ content
 
 # LP,BQ相关之后再汇总一下
 
-准备15-20个，，每个能zoom in，别编重复故事
+准备15-20个，，每个能zoom in，别编重复故事 (最多2个重复)
 
 收藏夹，地里tips看看
 
@@ -46,6 +46,12 @@ STAR
 * https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/content/bqbu-cuo-de-zong-jie.html
 * 2022LP
   * https://www.1point3acres.com/bbs/thread-839216-1-1.html
+
+---
+
+* 区分we, 强调contribution
+* star form要进入到到底做了什么 （5句话要能概括
+* 
 
 # Design
 
