@@ -5,6 +5,7 @@
 * [intro & outro](#intro--outro)
 * [basic steps](#basic-steps)
 * [加test](#加test)
+* [有必要问的边界](#有必要问的边界)
 
 # duration
 
@@ -58,3 +59,19 @@ ask for the webcam to be turned off -> focus when coding (vi)
 然后可以多写一些test cases 这样在写每一个的时候 你的input and expected output可以跟面试官验证
 
 至于用不用比如一些unit test的library 这个你自己决定 python之类比较容易写unit test的 时间允许的话 我觉得那肯定是更好了 不过一般hardcode一下也都可以了 还有一个交流小技巧就是 你可以一直跟面试官说 “我现在hardcode 一会儿时间够的话 我再写unit test”
+
+# 有必要问的边界
+
+先重复复述题目，能方便举自己例子input, output的一定先根据这个来复述.. 然后一般一开始抽象做法讲一下怎么解的
+
+<font color="red">暂时想不到edge，强调先说思路，但是后面写代码的时候发现任何问题再clarify一下</font>
+
+1. 输入是否允许为空
+   * 为空怎么处理，怎么返回
+2. 输入类型
+   1. char, int, double之类的
+3. 输入范围有限制吗
+   1. 有限制的注意数值位数限制，，Double, Integer
+4. 复杂度有要求吗？
+5. 输入如果是数字数组，
+   1. 递增？递减？有序？无序？
