@@ -25,6 +25,7 @@ content
   * ~~https://leetcode-cn.com/circle/article/48kq9d/~~
 * h
   * https://seanprashad.com/leetcode-patterns/
+  * https://neetcode.io/
   * https://aaronice.gitbook.io/lintcode
     * 这个选高频tag
   * https://leetcode.com/explore/interview/card/top-interview-questions-medium/

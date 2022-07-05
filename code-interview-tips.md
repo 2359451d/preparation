@@ -75,3 +75,7 @@ ask for the webcam to be turned off -> focus when coding (vi)
 4. 复杂度有要求吗？
 5. 输入如果是数字数组，
    1. 递增？递减？有序？无序？
+6. 区间题（输入给的interval）注意看下要不要排序
+7. 组合排列题，如果元素可以重复选择，看看有没有必要排序
+   1. 比如combination sum
+8. 
