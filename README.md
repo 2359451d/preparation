@@ -19,6 +19,8 @@ content
 
 ~~按顺序, 到时候再看2,3轮刷哪个。。。~~ 新题（太菜只能1~4区间）+每日复习跟上(间隔选个最合适的，桌面版卡片已set up, <font color="red">改标题标记间隔放长不能bug free写出的</font>，快速复习-think aloud思路
 
+题库通的，date能拖就拖，地里看帖
+
 * 重新第一轮随便刷刷收藏夹里高频tag知识点(**pattern基于algo monster和别的几个题单，高频都差不多**), 我全忘了
   * freq
   * ~~B75，G75~~ **第一轮G75-DFS高频顺序**
@@ -30,9 +32,11 @@ content
     * 这个选高频tag
   * https://leetcode.com/explore/interview/card/top-interview-questions-medium/
     * [白嫖通道](https://github.com/hxu296/leetcode-company-wise-problems-2022)
-  * 公司tag
+  * 公司tag+面经
   * OA
     * algo monster查最新OA汇总
+    * https://aonecode.com/coding-online-judge
+    * 小土刀，https://wdxtub.com/interview/index.html
     * https://coda.io/d/Offer_dm5fzh3MwOp/Amazon_suEfQ#_luHqk
 
 # LP,BQ相关之后再汇总一下
